@@ -26,7 +26,7 @@ except ImportError:
 # =====================================================================
 
 # 要扫描的目录路径，使用绝对路径或相对路径
-DIRECTORY = "."
+DIRECTORY = "https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/litelive.txt"
 
 # 要包含的文件扩展名列表
 EXTENSIONS = [".txt", ".m3u", ".m3u8"]
